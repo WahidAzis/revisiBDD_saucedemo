@@ -1,5 +1,5 @@
 ﻿# Web Automation Testing - Sauce Demo (BDD)
-Beginner Web Automation Testing with Serenity BDD
+Beginner Web Automation Testing with Cucumber BDD
 
 Sauce Demo URL: https://www.saucedemo.com/
 
